@@ -6,6 +6,6 @@ https://fun.pcgamers.win/varietyscore.php
 
 PCGamers.win
 
-fun.PCGamers.cin
+fun.PCGamers.win
 
 
